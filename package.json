@@ -1,0 +1,20 @@
+{
+  "name": "shopify-dev-shop-creator",
+  "version": "0.0.1",
+  "description": "Library to easily create Shopify development store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "AwesomeMagic",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "inquirer": "^7.0.4",
+    "ora": "^4.0.3",
+    "puppeteer": "^2.1.1",
+    "rrad": "^1.1.0",
+    "shopify-api-node": "^3.2.0"
+  }
+}
